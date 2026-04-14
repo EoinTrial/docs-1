@@ -240,7 +240,7 @@ The prompt above generated a single test case that verifies the `NotificationSys
 
 ### Asking about areas of improvement
 
-Now that we've written test cases to validate the integration functionality for deposits, this is a great opportunity to search for improvements within the test suite. While the current tests are functional, we can prompt {% data variables.product.prodname_copilot_short %} to evalulate code coverage and suggest areas of improvement.
+Now that we've written test cases to validate the integration functionality for deposits, this is a great opportunity to search for improvements within the test suite. While the current tests are functional, we can prompt {% data variables.product.prodname_copilot_short %} to evaluate code coverage and suggest areas of improvement.
 
 **Prompt:** _"What additional tests should be included to ensure full coverage for the integration between the `BankAccount` class and the `NotificationSystem`?"_
 
